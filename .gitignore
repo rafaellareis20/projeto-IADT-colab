@@ -1,0 +1,58 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+kaggle.json
+
+# Credenciais e chaves
+*.pem
+*.key
+*.crt
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Saídas temporárias
+tmp/
+temp/
+.cache/
+
+# Datasets grandes baixados do Kaggle
+dataset/
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Modelos treinados e checkpoints
+*.h5
+*.keras
+*.pkl
+*.joblib
+checkpoints/
+
+# Arquivos gerados durante execução
+outputs/
+results/
+runs/
+
+# Configurações locais de IDE
+.vscode/
+.idea/
