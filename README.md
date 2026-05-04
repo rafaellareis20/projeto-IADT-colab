@@ -165,5 +165,6 @@ Sandro Felipe RM372111 - kleyguerth@gmail.com
 Rafaella Reis RM373710 - rafaelareis20@gmail.com
 Wisley Siqueira RM374052 - dev.wisleysiqueira@gmail.com
 ```
+Turma: 9IADT
 Curso: Pós-graduação  
 Instituição: POSTECH
