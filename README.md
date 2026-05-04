@@ -54,7 +54,7 @@ https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 ## Apresentação
 A apresentação do projeto está disponível em:
-[---link-video---]
+https://youtu.be/IPdttGBSu9U 
 
 ---
 
