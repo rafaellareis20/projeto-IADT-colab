@@ -9,7 +9,7 @@ Repositório destinado à entrega acadêmica dos notebooks desenvolvidos no Goog
 projeto-IADT-colab/
 │
 ├── notebook-extra/
-│   └── CNN_Visao_Computacional_POSTECH_v1.ipynb
+│   └── Visao_Computacional_CNN_Diagnostico_de_Cancer.ipynb
 │
 ├── notebook-tech-challenge/
 │   └── Tech_Challenge_1_POSTECH_v1.ipynb
@@ -61,7 +61,7 @@ https://youtu.be/IPdttGBSu9U
 ### Projeto Extra — Deep Learning (CNN)
 
 Arquivo:
-notebook-extra/CNN_Visao_Computacional_POSTECH_v1.ipynb
+notebook-extra/Visao_Computacional_CNN_Diagnostico_de_Cancer.ipynb
 
 Aplicação de Redes Neurais Convolucionais (CNN) para classificação de imagens médicas.
 
